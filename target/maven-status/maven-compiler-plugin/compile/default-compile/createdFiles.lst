@@ -1,0 +1,4 @@
+com/storage/s3/config/StorageConfig.class
+com/storage/s3/controller/StorageController.class
+com/storage/s3/service/StorageService.class
+com/storage/s3/FileStorageServiceApplication.class

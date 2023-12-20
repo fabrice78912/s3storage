@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.storage.s3.FileStorageServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.747 s - in com.storage.s3.FileStorageServiceApplicationTests
